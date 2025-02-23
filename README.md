@@ -1,4 +1,4 @@
-# Digit Identification: PyTorch vs. TensorFlow
+# HandWritten Digit Identification: PyTorch vs. TensorFlow
 
 The purpose of this notebook is to compare deep learning models built by PyTorch and TensorFlow for identifying handwritten digits. 
 
